@@ -1,1 +1,1 @@
-# Shanon-Binary-Encoding
+# Shanon-Binary-Encoding using matlab
